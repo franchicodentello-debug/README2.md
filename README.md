@@ -6,5 +6,3 @@ Este projeto serve para calcular o consumo mensal do aparelho selecionado.
 - **Instruções de execução:** Digitar todas as informações solicitadas pelo programa
 
 [![My Skills](https://skillicons.dev/icons?i=python,github)](https://skillicons.dev)
-
-[app.py](https://github.com/user-attachments/files/26170946/app.py)
